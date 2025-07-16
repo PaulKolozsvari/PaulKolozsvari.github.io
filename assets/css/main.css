@@ -2815,6 +2815,11 @@ input, select, textarea {
 						border-top: 0;
 					}
 
+
+.sub-menu{
+	font-size: 60%;
+}
+
 /* Wrapper */
 
 	#wrapper {
